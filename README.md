@@ -1,5 +1,5 @@
 # "Halcyon Days" One Page Website Template
-![screenshot](img/halcyon-days-screenshot.jpg)  
+![screenshot](img/halcyon-days-screenshot.png)  
 
 "Halcyon Days" is a one page website template made by [Peter Finlan](http://peterfinlan.com/) exclusively for Codrops.
 
